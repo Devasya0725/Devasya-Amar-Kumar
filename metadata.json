@@ -1,0 +1,6 @@
+{
+  "name": "scholarspace",
+  "description": "Whispering Pages Library - A distraction-free premium study space in Jammu designed for peak academic and professional productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
